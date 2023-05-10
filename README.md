@@ -2,7 +2,7 @@
 
 Hi. I'm Murat, a software developer specialist (+6 years) who likes to work with JavaScript(React)/CSS/HTML/jQuery/AJAX/PHP.
 
-  ► Web front-end developer (JavaScript, React.js/Next.js/React Native,Vue.js/Nuxt.js, Node.js)
+  ► Web front-end developer (JavaScript,React.js/Next.js/Nuxt.js/Vue.js)
  
 I've been working on a web front-end development, best practices (React.js & Vue.js) for the past years.
 
