@@ -1,6 +1,6 @@
 <h3>Hey Everyone 👋</h3>
 
-Hi. I'm Murat, a software developer specialist (+6 years) who likes to work with JavaScript(React)/CSS/HTML/jQuery/AJAX/PHP.
+Hi. I'm Murat, a software developer specialist (+7 years) who likes to work with JavaScript(React)/CSS/HTML/jQuery/AJAX/PHP.
 
   ► Web front-end developer (JavaScript,React.js/Next.js/Nuxt.js/Vue.js)
  
