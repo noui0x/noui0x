@@ -72,7 +72,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 </table>
 
 
-<h3>Mobile Development</h3>
+<h3>Mobile App Development</h3>
 
  <table>
   <tr>
