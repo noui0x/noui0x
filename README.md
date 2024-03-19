@@ -20,8 +20,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
  
  <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:20px">
-    </td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:20px"></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="width:20px"></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:20px"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" style="width:20px"></td>
@@ -33,7 +32,6 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" style="width:20px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  style="width:20px"></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  style="width:20px"></td>
-    <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:20px"></td>
   </tr>
 </table>
 
@@ -74,6 +72,17 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
      <td><img src="https://static-00.iconduck.com/assets.00/oracle-color-icon-512x324-5h5evf6b.png" style="width:20px"></td>
     <td><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" style="width:20px"></td>
     <td><img src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" style="width:20px"></td>
+  </tr>
+</table>
+
+<h3>Other</h3>
+ <table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="width:20px" alt="nextjs"></td>
+    <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="width:20px"></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" style="width:20px"></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/framer-icon-2048x2048-msauaaio.png" style="width:20px"></td>
+    <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:20px"></td>
   </tr>
 </table>
 
