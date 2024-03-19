@@ -49,9 +49,13 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
        </td>
        <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:20px">
     </td>
-       </td>
+    </td>
        </td>
        <td><img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"  style="width:20px">
+    </td>
+    </td>
+       </td>
+       <td><img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"  style="width:20px">
     </td>
   </tr>
 </table>
