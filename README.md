@@ -34,7 +34,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
        <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  style="width:20px">
     </td>
        </td>
-       <td><img src="1"  style="width:20px">
+       <td><img src="https://cdn-icons-png.freepik.com/512/919/919827.png"  style="width:20px">
     </td>
   </tr>
 </table>
