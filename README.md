@@ -45,8 +45,10 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
        </td>
        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  style="width:20px">
     </td>
-    
-  
+     </td>
+       </td>
+       <td><img src=" https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:20px">
+    </td>
   </tr>
 </table>
 
