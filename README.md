@@ -72,7 +72,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
  <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/murataktaş/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png"></a></td>
+    <td><a href="https://www.linkedin.com/in/murataktaş/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="width:20px"></a></td>
     <td><a href="https://twitter.com/murtaktas7" target="_blank"><img src="https://camo.githubusercontent.com/2417acdaa0d0c812c440cd639375c66e65a606ac9802d0b161567a7690c6e9c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f616e746f6e6b61726c6f76736b6979"></a> </td>
 
   </tr>
