@@ -94,7 +94,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   <tr>
     <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width:20px"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" style="width:20px"></td>
-     <td><img src="https://5.imimg.com/data5/SELLER/Default/2022/7/FT/WW/IM/7756102/oracle-database-enterprise-edition-license-1-processor-500x500.png" style="width:20px"></td>
+     <td><img src="https://static-00.iconduck.com/assets.00/oracle-color-icon-512x324-5h5evf6b.png" style="width:20px"></td>
   </tr>
 </table>
 
