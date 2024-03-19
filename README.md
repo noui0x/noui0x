@@ -53,21 +53,16 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
        </td>
        <td><img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"  style="width:20px">
     </td>
-    
-
-
-
-    
   </tr>
 </table>
 
-<h3>Blockchain Development</h3>
+<h3>Static Site Generators</h3>
 
  <table>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/231072a03ebbd61574c68f1042e53c14d3f2e5e43b7ef6807516de3c06a62a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d536f6c69646974792d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"></td>
-    <td><img src="https://camo.githubusercontent.com/d77b9ed09434b6c29f716292cc59c7894b7b2557bf41bd5c435a5ec3d7f88743/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6574776f726b2d426974436f696e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d626974636f696e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
-     <td><img src="https://camo.githubusercontent.com/e5fa2a27cb27457ee4ffa3af98d15648f0191cae0e4394048653959535b8a196/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6574776f726b2d457468657265756d2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d657468657265756d266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
+    <td><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" style="width:20px" alt="nextjs"></td>
+    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" style="width:20px"></td>
+      <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-456x512-ghgrm1yx.png" style="width:20px"></td>
   </tr>
 </table>
 
@@ -82,16 +77,15 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Static Site Generators</h3>
+<h3>Blockchain Development</h3>
 
  <table>
   <tr>
-    <td><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" style="width:20px" alt="nextjs"></td>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" style="width:20px"></td>
-      <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-456x512-ghgrm1yx.png" style="width:20px"></td>
+    <td><img src="https://camo.githubusercontent.com/231072a03ebbd61574c68f1042e53c14d3f2e5e43b7ef6807516de3c06a62a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d536f6c69646974792d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"></td>
+    <td><img src="https://camo.githubusercontent.com/d77b9ed09434b6c29f716292cc59c7894b7b2557bf41bd5c435a5ec3d7f88743/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6574776f726b2d426974436f696e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d626974636f696e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
+     <td><img src="https://camo.githubusercontent.com/e5fa2a27cb27457ee4ffa3af98d15648f0191cae0e4394048653959535b8a196/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6574776f726b2d457468657265756d2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d657468657265756d266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
   </tr>
 </table>
-
 
 <h3>Find me elsewhere 🌎</h3>
 
