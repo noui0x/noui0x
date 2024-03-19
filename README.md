@@ -83,7 +83,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" style="width:20px"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/framer-icon-2048x2048-msauaaio.png" style="width:20px"></td>
     <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:25px"></td>
-    <td><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"  style="width:20px"></td>
+    <td><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"  style="width:20px;margin-top:10px"></td>
   </tr>
 </table>
 
