@@ -36,6 +36,12 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
        </td>
        <td><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png"  style="width:20px">
     </td>
+
+  </td>
+       </td>
+       <td><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png"  style="width:20px">
+    </td>
+   
   </tr>
 </table>
 
