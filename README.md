@@ -72,11 +72,12 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 </table>
 
 
-<h3>Web & Mobile Development</h3>
+<h3>Mobile Development</h3>
 
  <table>
   <tr>
     <td><img src="https://static-00.iconduck.com/assets.00/android-icon-2018x2048-jvek6bmt.png" style="width:20px"></td>
+       <td><img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" style="width:20px"></td>
     <td><img src="https://camo.githubusercontent.com/d7fc97c6f1f76744f44115ce591e0fd2e31e75357b1652fe96f347071359139d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
      <td><img src="https://camo.githubusercontent.com/1200b80618fc7b8d85db31e89ead5c17c47047ad5666830e4a3e90213fba94e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65776f726b2d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
   </tr>
