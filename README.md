@@ -82,7 +82,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="width:20px"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" style="width:20px"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/framer-icon-2048x2048-msauaaio.png" style="width:20px"></td>
-    <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:30px"></td>
+    <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:25px"></td>
   </tr>
 </table>
 
