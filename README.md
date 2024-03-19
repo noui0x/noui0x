@@ -82,13 +82,13 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Other</h3>
+<h3>Static Site Generators</h3>
 
  <table>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/4e3ac720a99def93e66a930374c80e8d063026050362e2887bfd89291c153717/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43492f43442d4769746875625f416374696f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"></td>
-    <td><img src="https://camo.githubusercontent.com/89bb2b84b39c609876eafe542bac7b6ea652db6e01ec3b9ae41d9a29bac7c9bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43492f43442d436972636c655f43492d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636972636c656369266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" </td>
-
+    <td><img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" style="width:20px"></td>
+    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" style="width:20px"></td>
+      <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-2048x533-lyklf3us.png" style="width:20px"></td>
   </tr>
 </table>
 
