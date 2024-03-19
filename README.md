@@ -38,19 +38,16 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 </table>
 
 <h3>Static Site Generators</h3>
-
  <table>
   <tr>
     <td><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" style="width:20px" alt="nextjs"></td>
     <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" style="width:20px"></td>
-<td><img src="https://static-00.iconduck.com/assets.00/middleman-icon-512x512-56599xr2.png" style="width:20px"></td>
-      <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-456x512-ghgrm1yx.png" style="width:20px"></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/middleman-icon-512x512-56599xr2.png" style="width:20px"></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-456x512-ghgrm1yx.png" style="width:20px"></td>
   </tr>
 </table>
 
-
 <h3>Mobile App Development</h3>
-
  <table>
   <tr>
     <td><img src="https://static-00.iconduck.com/assets.00/android-icon-2018x2048-jvek6bmt.png" style="width:20px"></td>
@@ -60,7 +57,6 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 </table>
 
 <h3>Blockchain Development</h3>
-
  <table>
   <tr>
     <td><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/solidity-1.png" style="width:20px"></td>
@@ -70,9 +66,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-
 <h3>Database</h3>
-
  <table>
   <tr>
     <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width:20px"></td>
@@ -80,16 +74,10 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
      <td><img src="https://static-00.iconduck.com/assets.00/oracle-color-icon-512x324-5h5evf6b.png" style="width:20px"></td>
     <td><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" style="width:20px"></td>
     <td><img src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" style="width:20px"></td>
-    
-
-    
   </tr>
 </table>
 
-
-
 <h3>Find me elsewhere 🌎</h3>
-
  <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/murataktaş/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="width:20px"></a></td>
