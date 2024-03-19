@@ -89,6 +89,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/solidity-1.png" style="width:20px"></td>
     <td><img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" style="width:20px"></td>
     <td><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" style="width:20px"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" style="width:20px"></td>
   </tr>
 </table>
 
