@@ -47,7 +47,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     </td>
      </td>
        </td>
-       <td><img src=" https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:20px">
+       <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:20px">
     </td>
   </tr>
 </table>
