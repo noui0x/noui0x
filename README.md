@@ -90,9 +90,9 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 <h3>Find me elsewhere 🌎</h3>
  <table>
   <tr>
+     <td><a href="https://www.instagram.com/maktas7/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" style="width:20px"></a> </td>
     <td><a href="https://www.linkedin.com/in/murataktaş/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="width:20px"></a></td>
     <td><a href="https://twitter.com/murtaktas7" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1109/PNG/512/1486053611-twitter_79195.png" style="width:20px"></a> </td>
-     <td><a href="https://www.instagram.com/maktas7/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" style="width:20px"></a> </td>
   </tr>
 </table>
  
