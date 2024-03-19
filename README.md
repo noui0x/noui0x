@@ -86,7 +86,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
  <table>
   <tr>
-    <td><img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" style="width:20px"></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" style="width:20px"></td>
     <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" style="width:20px"></td>
       <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-456x512-ghgrm1yx.png" style="width:20px"></td>
   </tr>
