@@ -51,7 +51,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     </td>
        </td>
        </td>
-       <td><img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg"  style="width:20px">
+       <td><img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"  style="width:20px">
     </td>
     
 
