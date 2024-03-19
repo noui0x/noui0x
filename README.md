@@ -87,6 +87,19 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
+
+<h3>Database</h3>
+
+ <table>
+  <tr>
+    <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width:20px"></td>
+    <td><img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" style="width:20px"></td>
+     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="width:20px"></td>
+  </tr>
+</table>
+
+
+
 <h3>Find me elsewhere 🌎</h3>
 
  <table>
