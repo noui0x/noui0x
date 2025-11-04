@@ -51,15 +51,6 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Mobile App Development</h3>
- <table>
-  <tr>
-    <td><img src="https://static-00.iconduck.com/assets.00/android-icon-2018x2048-jvek6bmt.png" style="width:20px"></td>
-    <td><img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" style="width:20px"></td>
-     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="width:20px"></td>
-  </tr>
-</table>
-
 <h3>Blockchain Development</h3>
  <table>
   <tr>
@@ -70,26 +61,44 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Database</h3>
+<h3>Database / Storage</h3>
  <table>
   <tr>
-    <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" style="width:20px"></td>
-     <td><img src="https://static-00.iconduck.com/assets.00/oracle-color-icon-512x324-5h5evf6b.png" style="width:20px"></td>
-    <td><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent.png" style="width:20px"></td>
-    <td><img src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" style="width:20px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" alt="MySQL" /></td>
+  </tr>
+</table>
+
+<h3>Editors / OS</h3>
+ <table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20" alt="Photoshop" /></td>
+  </tr>
+</table>
+
+<h3>Editors / OS</h3>
+ <table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" alt="VS Code" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20" alt="Visual Studio" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" width="20" alt="WebStorm" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="20" alt="Linux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" alt="Ubuntu" /></td>
   </tr>
 </table>
 
 <h3>Other</h3>
  <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="width:20px" alt="nextjs"></td>
-    <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/framer-icon-2048x2048-msauaaio.png" style="width:20px"></td>
-    <td><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"  style="width:25px"></td>
-    <td><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"  style="width:20px;"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20" alt="Postman" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" alt="npm" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="20" alt="Yarn" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" alt="Azure" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" alt="GitLab" /></td>
+    
   </tr>
 </table>
 
