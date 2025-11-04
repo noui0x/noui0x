@@ -23,13 +23,13 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="width:20px"></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"  style="width:20px"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" alt="HTML5" /></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"  style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png"  style="width:20px">
-    <td><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png"  style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png"  style="width:20px"></td>
-    <td><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" style="width:20px"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  style="width:20px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" alt="CSS3" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" alt="Sass" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" alt="Java" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" alt="PHP" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" alt="C" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" alt="C#" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" alt="C++" /></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  style="width:20px"></td>
   </tr>
 </table>
