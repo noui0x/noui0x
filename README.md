@@ -17,7 +17,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 
 <h3>Languages and Tools:</h3>
- 
+     <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,php,html,css,sass,git,nextjs,nuxtjs,flutter,ionic,mongodb,mysql,postgres&perline=10&theme=dark" />
  <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:20px"></td>
