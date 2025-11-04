@@ -41,13 +41,23 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Static Site Generators</h3>
+<h3>Front-End & UI</h3>
  <table>
   <tr>
-    <td><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" style="width:20px" alt="nextjs"></td>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/middleman-icon-512x512-56599xr2.png" style="width:20px"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/hugo-icon-456x512-ghgrm1yx.png" style="width:20px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" alt="Next.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" alt="Vue.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" alt="Nuxt.js" /></td>
+  </tr>
+</table>
+
+<h3>Back-End & Frameworks</h3>
+ <table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="24" alt="Nginx" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="24" alt="Apache" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" alt="PHP" /></td>
   </tr>
 </table>
 
@@ -69,13 +79,6 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Editors / OS</h3>
- <table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20" alt="Photoshop" /></td>
-  </tr>
-</table>
 
 <h3>Editors / OS</h3>
  <table>
@@ -85,6 +88,8 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" width="20" alt="WebStorm" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="20" alt="Linux" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" alt="Ubuntu" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" alt="Figma" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20" alt="Photoshop" /></td>
   </tr>
 </table>
 
