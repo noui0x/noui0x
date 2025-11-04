@@ -17,7 +17,11 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 
 <h3>Languages and Tools:</h3>
-     <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,php,html,css,sass,git,nextjs,nuxtjs,flutter,ionic,mongodb,mysql,postgres&perline=10&theme=dark" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24" alt="Vue" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js" />
  <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:20px"></td>
