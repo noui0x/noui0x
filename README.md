@@ -39,6 +39,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20" alt="Three.js" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" alt="Redux" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="24" alt="Go" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript" /></td>
   </tr>
 </table>
 
