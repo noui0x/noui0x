@@ -61,13 +61,13 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
   </tr>
 </table>
 
-<h3>Blockchain Development</h3>
+<h3>Testing / API / Tools</h3>
  <table>
   <tr>
-    <td><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/solidity-1.png" style="width:20px"></td>
-    <td><img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" style="width:20px"></td>
-    <td><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" style="width:20px"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" style="width:20px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20" alt="Postman" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" alt="npm" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="24" alt="Yarn" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="24" alt="pnpm" /></td>
   </tr>
 </table>
 
